@@ -204,3 +204,11 @@ a:hover {
     text-align: center;
   }
 }
+
+.google-button {
+     width: 160px;
+     margin: 0;
+}
+ .android-button {
+      margin: 12px;
+}
