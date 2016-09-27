@@ -13,7 +13,221 @@ a:hover {
 .community-block {
   background: #f6f6f6;
 }
+.community-block .block-title {a:hover {
+  text-decoration: none;
+}
+
+.navbar.activeOn {
+  top: 0px !important;
+}
+
+.features-block .hand-with-phone {
+  margin-top: 5%;
+}
+
+.community-block {
+  background: #f6f6f6;
+}
 .community-block .block-title {
+  padding-bottom: 2%;
+  text-transform: uppercase;
+  color: #F02653;
+}
+.community-block .subtitle {
+  line-height: 175%;
+  padding-bottom: 2%;
+  font-size: 18px;
+  color: #3d3d3d;
+  line-height: 22px;
+}
+.community-block .seePeople {
+  color: #F02653;
+}
+.community-block .communityFaces {
+  padding-top: 5%;
+}
+.community-block .communityFaces .noPadding {
+  padding-left: 0;
+  padding-right: 0;
+}
+.community-block .communityFaces img {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+.community-block .team {
+  padding-top: 5%;
+}
+.community-block .team h3 {
+  font-weight: 500;
+}
+.community-block .team h4 {
+  color: #B8B8B8;
+}
+.community-block .team img {
+  max-width: 145px;
+}
+
+.communityBlockBlurb {
+  padding-bottom: 10%;
+}
+
+.rewardButtons {
+  text-align: center;
+}
+.rewardButtons .btn {
+  margin: 5%;
+  width: 112px;
+  border-radius: 50px;
+  color: #B4B4B4;
+  background-color: #fff;
+  border-color: #b4b4b4;
+  transition: all .2s;
+}
+.rewardButtons .btn:hover {
+  color: white;
+  background-color: #b4b4b4;
+}
+
+.supporterNames {
+  color: black;
+}
+.supporterNames h3 {
+  font-size: 18px;
+}
+
+.backerRows div.rewardTier {
+  margin-top: 5%;
+  border-bottom: 3px solid rgba(237, 113, 37, 0.38);
+}
+.backerRows div.rewardTier h4 {
+  font-weight: bolder;
+  color: #ed632d;
+}
+
+.font22px {
+  font-size: 22px !important;
+}
+
+#toTop {
+  display: block;
+  position: fixed;
+  top: 85%;
+  right: 5%;
+  border-radius: 25%;
+  padding: 10px;
+  border: 2px solid red;
+  background: white;
+}
+
+#cover {
+  background: url("http://www.aveva.com/Images/ajax-loader.gif") no-repeat scroll center center white;
+  position: absolute;
+  z-index: 99999999;
+  height: 100%;
+  width: 100%;
+}
+
+.paddingBottomNone {
+  padding-bottom: 0 !important;
+}
+
+.lightGreyBackground {
+  background: #f6f6f6;
+}
+
+.whiteBackground {
+  background: white;
+}
+
+.colorBlack {
+  color: black;
+}
+
+.marginBottom4percent {
+  margin-bottom: 4%;
+}
+
+.noPaddingBottom {
+  padding-bottom: 0px !important;
+}
+
+.mobileHalfPink {
+  width: 50%;
+  display: inline;
+}
+
+@media all and (max-width: 1200px) {
+  div.communityFaces img:nth-child(n+19) {
+    display: none;
+  }
+
+  .features-block .hand-with-phone {
+    margin-top: 25%;
+  }
+}
+@media all and (max-width: 600px) {
+  .features-block .hand-with-phone {
+    margin-top: 5%;
+  }
+}
+@media all and (max-width: 992px) {
+  div.communityFaces img:nth-child(n+16) {
+    display: none;
+  }
+}
+@media all and (max-width: 714px) {
+  div.communityFaces img:nth-child(n+13) {
+    display: none;
+  }
+}
+@media all and (max-width: 570px) {
+  div.communityFaces img:nth-child(n+10) {
+    display: none;
+  }
+}
+@media all and (max-width: 430px) {
+  div.communityFaces img:nth-child(-n+18) {
+    display: inline-block;
+    width: 15%;
+  }
+}
+.storyPhone_1 {
+  transform: translate(6%, -40%);
+}
+
+@media all and (max-width: 1200px) {
+  .storyPhone_1 {
+    transform: translate(2%, -40%);
+    display: none;
+  }
+
+  .story-block {
+    max-height: 100%;
+  }
+
+  .storyPicDiv {
+    display: none !important;
+    transform: translate(0%, -56%);
+  }
+
+  .storyTextDiv {
+    width: 100%;
+    padding-bottom: 5%;
+  }
+
+  .storyTextDiv h1 {
+    text-align: center;
+  }
+}
+
+.google-button {
+     width: 160px;
+     margin: 0;
+}
+ .android-button {
+      margin: 12px;
+}
+
   padding-bottom: 2%;
   text-transform: uppercase;
   color: #F02653;
