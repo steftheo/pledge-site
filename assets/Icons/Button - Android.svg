@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="482px" height="150px" viewBox="0 0 482 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.1 (33804) - http://www.bohemiancoding.com/sketch -->
+    <title>Button - Android</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="19.2147947%" y1="-35.1571758%" x2="69.3023416%" y2="93.5367562%" id="linearGradient-1">
+            <stop stop-color="#19A3B4" offset="0%"></stop>
+            <stop stop-color="#5BC3AF" offset="34.816763%"></stop>
+            <stop stop-color="#C9F7A6" offset="92.2336229%"></stop>
+            <stop stop-color="#D7FEA5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M41.6713691,20.3603861 L5.3647473,0.608808267 C4.33529113,0.0515484433 3.38580925,-0.0780860172 2.61669489,0.159296566 L32.3552162,29.5795848 L41.6713691,20.3603861" id="path-2"></path>
+        <linearGradient x1="-14.698314%" y1="-114.321644%" x2="74.8444046%" y2="114.156353%" id="linearGradient-4">
+            <stop stop-color="#FC227C" offset="0%"></stop>
+            <stop stop-color="#FEEB7B" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="28.1511582%" y1="-14.8137139%" x2="48.1878808%" y2="82.8944571%" id="linearGradient-5">
+            <stop stop-color="#0E4DA0" offset="0%"></stop>
+            <stop stop-color="#6BFED4" offset="100%"></stop>
+        </linearGradient>
+        <path d="M2.61499331,0.159296566 C1.5106676,0.501060144 0.79600382,1.60716197 0.79600382,3.280625 L0.802810142,55.9492544 C0.802810142,57.6041982 1.49535338,58.6934644 2.56734906,59.0571143 L32.3552162,29.5846355 L2.61499331,0.159296566" id="path-6"></path>
+        <linearGradient x1="132.244588%" y1="16.465744%" x2="5.95853392%" y2="126.310354%" id="linearGradient-8">
+            <stop stop-color="#FC472E" offset="0%"></stop>
+            <stop stop-color="#FC472E" offset="0.331892433%"></stop>
+            <stop stop-color="#893CD8" offset="100%"></stop>
+        </linearGradient>
+        <path d="M2.56734906,59.0571143 C3.34156816,59.3163832 4.30976742,59.1951666 5.3647473,58.6227547 L41.7139086,38.8442398 L32.3552162,29.5846355 L2.56734906,59.0571143" id="path-9"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Download-App-Button" transform="translate(-172.000000, -331.000000)">
+            <g id="Button---Android" transform="translate(172.000000, 331.000000)">
+                <rect id="Rectangle-1-Copy" fill="#212121" x="0" y="0" width="482" height="150" rx="75"></rect>
+                <text id="Coming-Soon-to" font-family="Lato-Regular, Lato" font-size="18" font-weight="normal" letter-spacing="0.684000015" fill="#FFFFFF">
+                    <tspan x="168" y="59">Coming Soon to</tspan>
+                </text>
+                <text id="GOOGLE-PLAY" font-family=".SFNSDisplay, .SF NS Display" font-size="36" font-weight="normal" letter-spacing="1.36799967" fill="#FFFFFF">
+                    <tspan x="168" y="103">GOOGLE PLAY</tspan>
+                </text>
+                <ellipse id="Oval-1-Copy" stroke="#FFFFFF" opacity="0.701317631" cx="88.8934426" cy="75" rx="57.2868852" ry="57.2368421"></ellipse>
+                <g id="Icon---Google-Play" transform="translate(66.000000, 46.000000)">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Fill-1" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <path d="M41.7190134,38.8442398 L54.1133253,32.1015643 C56.6265596,30.7294593 56.6265596,28.4970529 54.1133253,27.128315 L41.6730707,20.3603861 L32.3552162,29.5795848 L41.7190134,38.8442398" id="Fill-2" fill="url(#linearGradient-4)"></path>
+                    <mask id="mask-7" fill="white">
+                        <use xlink:href="#path-6"></use>
+                    </mask>
+                    <use id="Fill-3" fill="url(#linearGradient-5)" xlink:href="#path-6"></use>
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <use id="Fill-4" fill="url(#linearGradient-8)" xlink:href="#path-9"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
