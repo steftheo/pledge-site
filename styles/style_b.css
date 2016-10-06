@@ -2,6 +2,7 @@ a:hover {
   text-decoration: none;
 }
 
+
 .navbar.activeOn {
   top: 0px !important;
 }
